@@ -7,12 +7,6 @@ Example multi-testscript job file
 # see https://pubhub.devnetcloud.com/media/pyats/docs/easypy/jobfile.html
 # for how job files work
 
-__author__ = "Hank Preston"
-__copyright__ = "Copyright (c) 2019, Cisco Systems Inc."
-__contact__ = ["hapresto@cisco.com"]
-__credits__ = []
-__version__ = 1.0
-
 import os
 from pyats.easypy import run
 
